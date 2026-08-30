@@ -13,13 +13,13 @@ A aplicação permite adicionar, concluir e acompanhar tarefas através de uma i
 ### 💻 Desktop
 
 <p align="center">
-  <img src="./assets/desktop-preview.png" alt="Taskflow - versão desktop" width="500">
+  <img src="/assets/task.desktop.png" alt="Taskflow - versão desktop" width="500">
 </p>
 
 ### 📱 Mobile
 
 <p align="center">
-  <img src="./assets/mobile-preview.png" alt="Taskflow - versão mobile" width="150">
+  <img src="/assets/task.mobile.png" alt="Taskflow - versão mobile" width="150">
 </p>
 
 ---
